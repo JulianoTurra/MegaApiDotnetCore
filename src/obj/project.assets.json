@@ -5467,19 +5467,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Felipe\\.nuget\\packages\\": {}
+    "C:\\Users\\jctur\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\records\\raw\\Documentação\\MegaApiDotnetCore\\src\\MegamanApi.csproj",
+      "projectUniqueName": "C:\\Users\\jctur\\Documents\\Estudo\\Dio-me\\Bootcamp Microsoft AI for Tech – Criando Prompts Inteligentes\\4 - Aplicacoes Praticas e Ferramentas de IAs\\documentacao\\MegaApiDotnetCore\\src\\MegamanApi.csproj",
       "projectName": "MegamanApi",
-      "projectPath": "C:\\records\\raw\\Documentação\\MegaApiDotnetCore\\src\\MegamanApi.csproj",
-      "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
-      "outputPath": "C:\\records\\raw\\Documentação\\MegaApiDotnetCore\\src\\obj\\",
+      "projectPath": "C:\\Users\\jctur\\Documents\\Estudo\\Dio-me\\Bootcamp Microsoft AI for Tech – Criando Prompts Inteligentes\\4 - Aplicacoes Praticas e Ferramentas de IAs\\documentacao\\MegaApiDotnetCore\\src\\MegamanApi.csproj",
+      "packagesPath": "C:\\Users\\jctur\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jctur\\Documents\\Estudo\\Dio-me\\Bootcamp Microsoft AI for Tech – Criando Prompts Inteligentes\\4 - Aplicacoes Praticas e Ferramentas de IAs\\documentacao\\MegaApiDotnetCore\\src\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\jctur\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5502,7 +5502,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "netcoreapp3.1": {
@@ -5564,7 +5565,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   },
